@@ -1,8 +1,8 @@
 ---
 
 applications:
-- name: 05dbBootnew
-  path: target/05dbbootnew-0.0.1-SNAPSHOT.war
+- name: 05dbBootHana
+  path: target/05dbbootHana-0.0.1-SNAPSHOT.war
   memory: 800M
   random-route: true
   buildpacks:
